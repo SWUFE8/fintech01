@@ -1,13 +1,13 @@
 {
     "labs": [
         {
-            "./association/Association.ipynb": "Bigdata:Association"
+            "Association.ipynb": "Bigdata:Association"
         }
         {
-            "./classification/chapter8%20ClassBasic-b.ipynb": "Bigdata:classBasic"
+            "ClassBasic-b.ipynb": "Bigdata:classBasic"
         }  
         {
-            "./cluster/Chapter10%20Cluster.ipynb": "Bigdata:cluster"
+            "Cluster.ipynb": "Bigdata:cluster"
         }  
     ]
 }
