@@ -2,12 +2,12 @@
     "labs": [
         {
             "Association.ipynb": "Bigdata:Association"
-        }
+        },
         {
             "ClassBasic-b.ipynb": "Bigdata:classBasic"
-        }  
+        }, 
         {
             "Cluster.ipynb": "Bigdata:cluster"
-        }  
+        }
     ]
 }
